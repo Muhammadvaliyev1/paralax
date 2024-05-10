@@ -121,6 +121,8 @@ body {
 }
 .copy {
 	position: absolute;
+	color: white;
+	text-decoration: none;
 	bottom: calc(var(--index) * 2.5);
 	opacity: .45;
 	font-size: calc(var(--index) * .75);
